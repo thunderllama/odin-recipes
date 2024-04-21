@@ -24,3 +24,7 @@ button {
     background-color: #01949A;
     color: #DB1F48;
 }
+p,
+li {
+    font-family: Antic, "Gill Sans", Verdana, sans-serif;
+}
