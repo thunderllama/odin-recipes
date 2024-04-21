@@ -28,3 +28,8 @@ p,
 li {
     font-family: Antic, "Gill Sans", Verdana, sans-serif;
 }
+#homepage {
+    background-color: #01949A;
+    font-weight: bolder;
+    color:#E5DDC8;
+}
