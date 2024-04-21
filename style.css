@@ -1,6 +1,26 @@
 * {
-    background-color: #013A20;
+    background-color: #E5DDC8;
+    color: #004369;
+    font-size: 18px;
+}
+h1,
+h2,
+h3 {
+    font-family: "Black Mango Medium", Palatino, "Brush Script MT", fantasy;
+    color: #DB1F48;
+    font-weight: bold;
 }
 h1 {
-    color: #67595E;
+    font-size: 46px;
+    text-align: center;
+}
+h2 {
+    font-size: 32px;
+}
+h3 {
+    font-size: 28px;
+}
+button {
+    background-color: #01949A;
+    color: #DB1F48;
 }
