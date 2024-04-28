@@ -53,3 +53,8 @@ li {
 img {
     display: inline;
 }
+#description *,
+#ingredients *,
+#steps *{
+    
+}
