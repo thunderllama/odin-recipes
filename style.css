@@ -33,3 +33,12 @@ li {
     font-weight: bolder;
     color:#E5DDC8;
 }
+.preview {
+    padding: 20px;
+    display: inline-block;
+    background-color: #01949A;
+    width: 200px;
+    border: #DB1F48;
+    border-width: 2px;
+    border-style: solid;
+}
