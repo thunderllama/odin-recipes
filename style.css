@@ -37,8 +37,15 @@ li {
     padding: 20px;
     display: inline-block;
     background-color: #01949A;
-    width: 200px;
+    width: 300px;
     border: #DB1F48;
     border-width: 2px;
     border-style: solid;
+    margin: 20px;
+}
+.preview a {
+    background-color: #01949A;
+    color: #E5DDC8;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
