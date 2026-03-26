@@ -7,3 +7,14 @@ h1 {
     text-align: center;
     background-color: #F7C85C;
 }
+
+#home {
+    background-color: #7FB77E;
+    color: #FFF6C0;
+    font-size: 24px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    border: #F7C85C;
+    border-style: solid;
+}
