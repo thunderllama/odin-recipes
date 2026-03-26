@@ -2,6 +2,8 @@ html {
     background-color: #FFF6C0;
     color:#224e2e;
 }
-h1, h2 {
-    color: #224e2e;
+
+h1 {
+    text-align: center;
+    background-color: #F7C85C;
 }
