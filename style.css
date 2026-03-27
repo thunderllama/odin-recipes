@@ -10,6 +10,16 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    background-color: #F7C85C;
+    display: block;
+    box-sizing: border-box;
+    width: 500px;
+    margin: 10 auto 10 0;
+}
+
 #home {
     background-color: #7FB77E;
     color: #FFF6C0;
